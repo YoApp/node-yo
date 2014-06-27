@@ -17,5 +17,13 @@
     "yo"
   ],
   "author": "ikr7",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ikr7/node-yo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikr7/node-yo/issues"
+  },
+  "homepage": "https://github.com/ikr7/node-yo"
 }
