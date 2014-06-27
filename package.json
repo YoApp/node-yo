@@ -1,0 +1,21 @@
+{
+  "name": "yo",
+  "version": "0.0.1",
+  "description": "Yo API wrapper for Node",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "request": "~2.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yo"
+  ],
+  "author": "ikr7",
+  "license": "WTFPL"
+}
