@@ -1,6 +1,6 @@
 {
   "name": "yoapi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Yo API wrapper for Node",
   "main": "index.js",
   "directories": {
